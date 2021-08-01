@@ -1,0 +1,11 @@
+@binary
+
+struct mystruct {
+    private attribute u8 mValue:
+    method getValue {
+        in : {  }
+        out : {
+            _mValue
+        }
+    }
+}
