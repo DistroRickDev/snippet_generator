@@ -1,4 +1,4 @@
-# Snippet (or code) Generator
+# Snippet (or code generator)
 
 ## Introduction
 Small code generator, basic functionion is divided in three parts:
